@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9425f246-927e-04e2-1913-82367e58585b
 resourcetype: Document
 title: hw2_timber.pdf
 uid: 7ba77074-5bc7-39a7-3a96-fa220f2f05bb

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dee3fa32-dc94-26e8-4144-27476715d05b
 resourcetype: Document
 title: lec4_masonry3.pdf
 uid: aa1e9e8e-b38d-c698-f33c-66d1dbe205c2

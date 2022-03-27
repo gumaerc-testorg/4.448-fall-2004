@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dee3fa32-dc94-26e8-4144-27476715d05b
 resourcetype: Document
 title: lec6_timber2.pdf
 uid: a298d385-8a8a-9b29-3594-8f4190e53bab
