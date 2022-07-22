@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for required readings and
+  additional texts.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c1313834-2df9-46f3-7d72-652e0dd82377
 ---
