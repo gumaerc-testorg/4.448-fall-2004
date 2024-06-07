@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation.
 file: /courses/4-448-analysis-of-historic-structures-fall-2004/8fed918bd0181b1320efb91309b7db14_lec1_analysis.pdf
+file_size: 1166570
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

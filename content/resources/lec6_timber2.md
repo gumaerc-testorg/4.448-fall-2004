@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/4-448-analysis-of-historic-structures-fall-2004/a298d3858a8a9b2935948f4190e53bab_lec6_timber2.pdf
+file_size: 671720
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
