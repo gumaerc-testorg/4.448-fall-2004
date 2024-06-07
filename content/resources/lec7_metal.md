@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/4-448-analysis-of-historic-structures-fall-2004/20daf89c91e066a94c45f7656c1d7043_lec7_metal.pdf
+file_size: 1658404
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

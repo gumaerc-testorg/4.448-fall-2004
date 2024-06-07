@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/4-448-analysis-of-historic-structures-fall-2004/91d4142708ce9f8b106abca783f92dcf_lec2_masonry1.pdf
+file_size: 923936
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

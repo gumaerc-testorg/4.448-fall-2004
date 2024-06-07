@@ -2,6 +2,7 @@
 content_type: resource
 description: Assigned homework problems.
 file: /courses/4-448-analysis-of-historic-structures-fall-2004/7ba770745bc739a73a96fa220f2f05bb_hw2_timber.pdf
+file_size: 46394
 file_type: application/pdf
 learning_resource_types:
 - Assignments
