@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/4-448-analysis-of-historic-structures-fall-2004/325e324afb2785232269d07f0465487d_lec8_concrete.pdf
+file: /ol-ocw-studio-app/courses/4-448-analysis-of-historic-structures-fall-2004/325e324afb2785232269d07f0465487d_lec8_concrete.pdf
 file_size: 507220
 file_type: application/pdf
 learning_resource_types:
