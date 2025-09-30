@@ -23,7 +23,7 @@ Acland, J. _The Gothic Vault._ Toronto: University of Toronto Press, 1972. ISBN:
 
 Feilden, B. _Conservation of Historic Buildings._ Boston: Butterworth, 1994. ISBN: 0750658630.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061025) Fitchen, J. _Building Construction Before Mechanization_. Cambridge, MA: MIT Press, 1986. ISBN: 9780262061025.
+{{% resource_link "da6c7e97-7228-4863-833b-394df651dca4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fitchen, J. _Building Construction Before Mechanization_. Cambridge, MA: MIT Press, 1986. ISBN: 9780262061025.
 
 ———. _The Construction of Gothic Cathedrals._ Chicago: University of Chicago Press, 1961. ISBN: 0226252035.
 
